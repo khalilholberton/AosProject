@@ -36,7 +36,9 @@ $ npm run serve
 ```
 
 > Step 5: Open this URL http://localhost:4000/graphql in your browser
+
 > Step 6: Now you can send queries
+
 > Step 7: In order to stop the application from running, press Control and c.
 
 ```sh
